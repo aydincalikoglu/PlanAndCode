@@ -12,5 +12,8 @@ class trello:
     def removePano(self,panoID):
         print("")
 
+    def getPanos(self):
+        print("")
+
 
 
