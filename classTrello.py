@@ -4,7 +4,7 @@ class trello:
         self.apiKey=apiKey
 
     def createPano(self):
-        print("")
+        print("creaatePano")
 
         panoId=""
         return panoId
